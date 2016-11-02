@@ -148,7 +148,8 @@ materialAdmin
                             {
                                 name: 'vendors',
                                 files: [
-                                    'vendors/bower_components/autosize/dist/autosize.min.js'
+                                    'vendors/bower_components/autosize/dist/autosize.min.js',
+                                    'vendors/input-mask/input-mask.min.js',
                                 ]
                             }
                         ])
